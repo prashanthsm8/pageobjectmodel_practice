@@ -1,5 +1,5 @@
 package com.mercury.qa.pages;
 
-public class LandingPage {
+public class LoginPage {
 
 }
